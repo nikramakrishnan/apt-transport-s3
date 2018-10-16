@@ -20,6 +20,8 @@ access to AWS metadata server on 169.254.169.254.  They are also taken from the
 usual environment variables.
 
 ## License & Copyright
+This project is licensed under the GNU General Public License v2.0. See the [COPYING](COPYING) file for more info.
+
     # Copyright (C) 2014 Bashton Ltd.
     #
     # This program is free software; you can redistribute it and/or modify
